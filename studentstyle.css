@@ -1,0 +1,71 @@
+*   {box-sizing:border-box  
+}   
+
+
+* { 
+    margin: 0;  
+    padding: 0;
+}   
+
+.body { 
+    background-color: #efeee7;
+}
+.bio {  
+    /* width: 60%;  */
+    background-color:#333333;   
+    font-family: "Georgia",Times New Roman,Times,serif;
+    text-align: center; 
+    padding: 14px 24px;   
+    height: 67px ;
+}   
+/* .coninf {   
+    width: 30%;
+} */
+
+.bio h1 {   
+    color: rgb(221, 221, 221);
+}   
+
+.name { 
+    /* border-style: solid; */
+    float: left;    
+    width: 60%; 
+    margin: 20px;
+}
+
+
+.coninf{    
+    /* border-style: solid;     */
+    float:right ;   
+    width: 30%; 
+    /* margin: 20px;    */
+    font-family: "Georgia",Times New Roman,Times,serif; 
+    margin: 40px 0; 
+    
+}
+.name img { 
+    width: 200px;   
+    height: 200px;  
+    object-fit: cover;      
+    float: left;
+    
+}   
+
+.name h2 {  
+  /* padding: 25px 0; */    
+  margin: 19.92px 0px;
+}   
+
+.name p {       
+    text-align: center;
+    
+}   
+.coninf a { 
+    color: #d21034;
+}   
+.name h2 {    
+    font-family: "Georgia",Times New Roman,Times,serif;
+}   
+.name p {    
+    font-family: "Georgia",Times New Roman,Times,serif;
+}
